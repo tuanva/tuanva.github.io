@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tuan's ~]]></title>
-  <link href="http://tuanva.github.io/atom.xml" rel="self"/>
-  <link href="http://tuanva.github.io/"/>
-  <updated>2014-01-07T00:48:59+00:00</updated>
-  <id>http://tuanva.github.io/</id>
+  <link href="http://tuanva.co.uk/atom.xml" rel="self"/>
+  <link href="http://tuanva.co.uk/"/>
+  <updated>2014-01-07T00:51:06+00:00</updated>
+  <id>http://tuanva.co.uk/</id>
   <author>
     <name><![CDATA[Tuan Vu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://tuanva.github.io/blog/2013/12/21/hello-world/"/>
+    <link href="http://tuanva.co.uk/blog/2013/12/21/hello-world/"/>
     <updated>2013-12-21T00:39:36+00:00</updated>
-    <id>http://tuanva.github.io/blog/2013/12/21/hello-world</id>
+    <id>http://tuanva.co.uk/blog/2013/12/21/hello-world</id>
     <content type="html"><![CDATA[<p>Hello World</p>
 ]]></content>
   </entry>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tuanva.github.io/blog/2013/12/21/hello-world/</loc>
+        <loc>http://tuanva.co.uk/blog/2013/12/21/hello-world/</loc>
         <lastmod>2014-01-05T01:10:40+00:00</lastmod>
     </url>
     <url>
-        <loc>http://tuanva.github.io/blog/archives/</loc>
+        <loc>http://tuanva.co.uk/blog/archives/</loc>
         <lastmod>2014-01-05T01:10:40+00:00</lastmod>
     </url>
     <url>
-        <loc>http://tuanva.github.io/</loc>
+        <loc>http://tuanva.co.uk/</loc>
         <lastmod>2014-01-05T01:10:40+00:00</lastmod>
     </url>
     <url>
-        <loc>http://tuanva.github.io/robots.txt</loc>
+        <loc>http://tuanva.co.uk/robots.txt</loc>
         <lastmod>2014-01-05T01:10:40+00:00</lastmod>
     </url>
 </urlset>

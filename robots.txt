@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://tuanva.github.io/sitemap.xml 
+Sitemap: http://tuanva.co.uk/sitemap.xml 
